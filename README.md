@@ -27,4 +27,4 @@ See [the installation guide](docs/installation_guide.md) and [user guide](docs/u
 
 ## Credits
 
-This is a team project originally developed in [nabulsi019/Soen287](https://github.com/nabulsi019/Soen287). This repository is a cleaned working copy of that project; contributions should be credited to the original team. Its interface and documentation are being refined for a portfolio presentation.
+This is a team project originally developed in [nabulsi019/Soen287](https://github.com/nabulsi019/Soen287). This repository is a cleaned up working copy of that project, so lots of credit to the original team.
