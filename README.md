@@ -9,6 +9,10 @@ A full stack course and assessment tracker built as a team project. Students can
 - Admin course management, enable/disable controls, and aggregate enrollment statistics.
 - Express API with data stored locally in `server/db.json`.
 
+## My contributions
+
+I worked on the courses and course details pages and the assessment forms. I also contributed backend support for course data, the course-detail flow, and assessment handling. These features were developed and integrated with the rest of the team.
+
 ## Run locally
 
 Requires Node.js and npm. From the project root in PowerShell:
